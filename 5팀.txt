@@ -1,0 +1,9 @@
+5팀 DB구조화  <휴게소 음식 및 편의시설 정보>
+휴게소정보 API - 제공 URL : https://www.data.go.kr/data/15062047/openapi.do
+휴게소정보 API - 파라메터 포함 주소 : http://data.ex.co.kr/openapi/restinfo/hiwaySvarInfoList?key=7717351437&type=json
+
+휴게소음식정보 - API https://www.data.go.kr/data/15076643/openapi.do
+휴게소음식정보 - API 파라메터 포함 주소 :http://data.ex.co.kr/openapi/restinfo/restBestfoodList?key=7717351437&type=json&numOfRows=10&pageNo=1
+
+휴게소편의시설- 정보 API https://www.data.go.kr/data/15076644/openapi.do
+휴게소편의시설- 정보 API 파라메터 포함 주소 : http://data.ex.co.kr/openapi/restinfo/restConvList?key=7717351437&type=json&numOfRows=10&pageNo=1
